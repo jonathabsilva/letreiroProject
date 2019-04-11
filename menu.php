@@ -26,7 +26,7 @@
 
     <body>  
         <h2>Menu</h2>
-        <button onclick="alert('oi')" class="btn btn-success">Cadastrar atentimento</button>
+        <a href="cadastrarAtendimento.php" class="btn btn-success">Cadastrar Atendimento</a>
         
         <span> </span><a href="admin.php" class="btn btn-success">Acesso Administrador</a>
         <span> </span><a href="letreiro.php" class="btn btn-success">Acessar Letreiro</a>
