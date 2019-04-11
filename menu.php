@@ -29,7 +29,7 @@
         <button onclick="alert('oi')" class="btn btn-success">Cadastrar atentimento</button>
         
         <span> </span><a href="admin.php" class="btn btn-success">Acesso Administrador</a>
-        <span> </span><a href="index.php" class="btn btn-success">Acessar Letreiro</a>
+        <span> </span><a href="letreiro.php" class="btn btn-success">Acessar Letreiro</a>
         
         <button id='sair' class="btn btn-danger" onclick="sair()">Sair</button>
 
